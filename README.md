@@ -21,4 +21,6 @@ A couple of years ago, I started to transition my career towards the IT field, s
 
 I have a huge interest in building meaningful and well crafted projects with inspiring people, putting a great emphasis on the quality of the code, user experience and responsiveness.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmdz)](https://github.com/valmdz/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmdz&theme=solarized-light&show_icons=true)](https://github.com/valmz/github-readme-stats)
