@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋
 
 <!--
 **valmdz/valmdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Valentina, a front-End developer with a background in Sustainable Architecture. 
+
+A couple of years ago, I started to transition my career towards the IT field, so I began by learning about UX and UI. I then joined a 7.5 months intensive web-development bootcamp at an organization called Hack your Future where I learned the modern principles of full stack development. 
+
+I have a huge interest in building meaningful and well crafted projects with inspiring people, putting a great emphasis on the quality of the code, user experience and responsiveness.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valmdz&theme=solarized-light&show_icons=true)](https://github.com/valmz/github-readme-stats)
